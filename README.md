@@ -5,3 +5,5 @@
 5. Click the mintExample button
 
 Note: currently, there are some issues with the next.js SSR which will cause warnings and sometimes a failed rendering of the frontend. If you can't see anything, refresh the page should be able to solve it.
+
+Reference: https://github.com/gear-tech/sails/blob/master/js/cli/README.md
